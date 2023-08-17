@@ -1,4 +1,4 @@
-# Animated-Buttons-in-Unity
+# Animated Buttons in Unity
 
 Three simple animated buttons in Unity using DOTween.
 
